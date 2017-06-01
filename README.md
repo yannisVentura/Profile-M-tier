@@ -6,8 +6,11 @@
 # Cycle de vie des applications
 ## Testeur
 
-  
-## 
+![alt tag]('Img/Testeur/Fiche Métier Testeur.jpg')
+![alt tag]('Img/Testeur/Fiche Métier Testeur_detail_1.jpg')
+![alt tag]('Img/Testeur/Fiche Métier Testeur_detail_2.jpg')
+![alt tag]('Img/Testeur/Fiche Métier Testeur_detail_3.jpg')
+
 
   
   
