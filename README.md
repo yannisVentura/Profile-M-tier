@@ -6,5 +6,4 @@
 # Cycle de vie des applications
 ## Testeur
 
-![alt tag](img/testeur/Fiche_Metier_Testeur.jpg)
 ![alt tag](img/testeur/Personnal_Training_As_Tester.jpg)
