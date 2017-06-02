@@ -8,15 +8,3 @@
 
 ![alt tag](img/testeur/Fiche_Metier_Testeur.jpg)
 ![alt tag](img/testeur/Personnal_Training_As_Tester.jpg)
-
-------
-![alt tag](img/testeur/Fiche_Metier_Testeur_détail_1.jpg)
-![alt tag](img/testeur/Fiche_Metier_Testeur_detail_2.jpg)
-![alt tag](img/testeur/Fiche_Metier_Testeur_detail_3.jpg)
-
-
-  
-  
-
-
-   
